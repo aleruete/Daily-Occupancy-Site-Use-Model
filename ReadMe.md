@@ -8,7 +8,7 @@ Here you can download all data and scripts needed to replicate the analyses done
 To run it you will need to install R <http://www.r-project.org/> and JAGS <http://mcmc-jags.sourceforge.net/>.
 
 **NOTE:** To run these scripts you will need at least 16GB of RAM, and the code is written so that models are fitted in 4 independent chains, therefore you will need at least 4 cores (you can change that if you want, though).
-Be warned, model fitting takes about 2 hours per species (CPU i7 @3.5Ghz).
+Be warned, model fitting takes about 2 hours per species (CPU i7 @3.5Ghz). Oh, yes! this script runs on Windows, but you may need to adapt it for Linux or Mac (specially the packages for running in parallel).
 
 ## Content
 + Original Observation data: Uppland90180.csv
