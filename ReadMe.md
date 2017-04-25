@@ -32,5 +32,5 @@ Running order:
 
 ### Authors and Contributors
 Scripts and Repository created by Alejandro Ruete in Apr 2017.
-DOI: dx.doi.org/10.5281/zenodo.17593
+DOI: dx.doi.org/
 ### Licence GNU v.3
