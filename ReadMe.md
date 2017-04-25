@@ -12,17 +12,17 @@ To run these scripts you will need at least 16GB of RAM, and the code is written
 Be warned, model fitting takes about 2 hours per species (CPU i7 @3.5Ghz).
 
 ## Content
-Original Observation data: Uppland90180.csv
-To collate the data: Jags Compile data Optimized 20160125.R (returns OccDataUppland.RData)
-The JAGS model: Write Jags Occupancy Model Saturation 20150815.R
-To fit the models: Jags Occupancy Model Parallel Saturation 20150815.R 
-+ other files to plot the results
++ Original Observation data: Uppland90180.csv
++ To collate the data: Jags Compile data Optimized 20160125.R (returns OccDataUppland.RData)  
++ The JAGS model: Write Jags Occupancy Model Saturation 20150815.R  
++ To fit the models: Jags Occupancy Model Parallel Saturation 20150815.R  
++ Plus other files to plot the results
 
-#/Results
+**/Results**  
 a folder to store the results. Example of results for the first species
 
-#/Simulations
-All scripts required to created the simulated data and fit the model to it and by products. 
+**/Simulations**  
+All scripts required to created the simulated data and fit the model to it and by products.  
 Running order:
 1. Scenarios Simulate Occ Data.R
 2. Scenarios Fit Models.R
@@ -31,6 +31,6 @@ Running order:
 
 
 ### Authors and Contributors
-Scripts and Repository created by Alejandro Ruete in Apr 2017.
+Scripts and Repository created by Alejandro Ruete in Apr 2017.  
 DOI: dx.doi.org/
 ### Licence GNU v.3
