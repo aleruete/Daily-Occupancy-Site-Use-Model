@@ -21,7 +21,7 @@ Be warned, model fitting takes about 2 hours per species (CPU i7 @3.5Ghz). Oh, y
 a folder to store the results. Example of results for the first species
 
 **/Simulations**  
-All scripts required to created the simulated data and fit the model to it and by products.  
+All scripts required to created the simulated data and fit the model to it (plus by-products).  
 Running order:
 1. Scenarios Simulate Occ Data.R
 2. Scenarios Fit Models.R
