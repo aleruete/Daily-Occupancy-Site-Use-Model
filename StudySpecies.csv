@@ -1,0 +1,78 @@
+Ursprunglig namnsträng,Matchstatus,TaxonId,Vetenskapligt namn,AbunUppland,Svenskt namn,Synonymer
+Trastsångare,Exact,100003,Acrocephalus arundinaceus,55,trastsångare,"Turdus arundinaceus Linnaeus, 1758"
+Busksångare,Exact,103077,Acrocephalus dumetorum,8,busksångare,
+Kärrsångare,Exact,103005,Acrocephalus palustris,200,kärrsångare,"Motacilla s. Sylvia palustris Bechstein, 1798"
+Sävsångare,Exact,103004,Acrocephalus schoenobaenus,14000,sävsångare,"Motacilla Schoenobaenus Linnaeus, 1758"
+Rörsångare,ManualSelection,103006,Acrocephalus scirpaceus,40000,rörsångare,"Turdus scirpaceus Hermann, 1804"
+Stjärtand,Exact,100006,Anas acuta,2,stjärtand,
+Skedand,Exact,102106,Anas clypeata,290,skedand,"Spatula clypeata (Linnaeus, 1758)"
+Kricka,Exact,102932,Anas crecca,3100,"kricka, Common Teal",
+Bläsand,Exact,102931,Anas penelope,15,bläsand,"Mareca penelope (Linnaeus, 1758)"
+Gräsand,Exact,102933,Anas platyrhynchos,13000,gräsand,
+Årta,Exact,100007,Anas querquedula,40,årta,"Spatula querquedula (Linnaeus, 1758)"
+Snatterand,Exact,102105,Anas strepera,440,snatterand,"Mareca strepera (Linnaeus, 1758)"
+Grågås,Exact,102928,Anser anser,4000,grågås,"Anas Anser Linnaeus, 1758"
+Ängspiplärka,Exact,102983,Anthus pratensis,6300,ängspiplärka,"Alauda pratensis Linnaeus, 1758"
+Gråhäger,Exact,100012,Ardea cinerea,1000,"gråhäger, häger",
+Jorduggla,Exact,102117,Asio flammeus,2,jorduggla,"Strix Flammea Pontoppidan, 1763"
+Hornuggla,Exact,102975,Asio otus,620,hornuggla,"Strix Otus Linnaeus, 1758"
+Brunand,Exact,102107,Aythya ferina,130,brunand,"Anas ferina Linnaeus, 1758"
+Vigg,Exact,102934,Aythya fuligula,2900,vigg,"Anas Fuligula Linnaeus, 1758"
+Rördrom,Exact,100018,Botaurus stellaris,120,rördrom,"Ardea stellaris Linnaeus, 1758"
+Kanadagås,Exact,102929,Branta canadensis,1800,kanadagås,"Anas canadensis Linnaeus, 1758"
+Vitkindad gås,Exact,100019,Branta leucopsis,450,vitkindad gås,"Anas leucopsis Bechstein, 1803"
+Knipa,Exact,102937,Bucephala clangula,4800,knipa,"Anas Clangula Linnaeus, 1758"
+kärrsnäppa (sydlig),ManualSelection,205617,Calidris alpina,0,kärrsnäppa,"Tringa alpina Linnaeus, 1758 subspecie schinzii"
+Brushane,Exact,100103,Calidris pugnax,0,brushane,"Tringa pugnax Linnaeus, 1758; Philomachus pugnax (Linnaeus, 1758); Høvu?kambur"
+Rosenfink,Exact,103051,Carpodacus erythrinus,850,rosenfink,"Loxia erythrina Pallas, 1770"
+Mindre strandpipare,Exact,100028,Charadrius dubius,100,mindre strandpipare,
+Större strandpipare,Exact,102951,Charadrius hiaticula,140,större strandpipare,
+Svarttärna,Exact,100030,Chlidonias niger,30,svarttärna,"Sterna nigra Linnaeus, 1758"
+Skrattmås,Exact,102963,Chroicocephalus ridibundus,12000,skrattmås,"Larus ridibundus Linnaeus, 1766; Larus ridibundus Linnaeus, 1766"
+Vit stork,Exact,100031,Ciconia ciconia,0,vit stork,"Ardea Ciconia Linnaeus, 1758"
+Brun kärrhök,Exact,100033,Circus aeruginosus,210,"brun kärrhök, brunhök","Falco aeruginosus Linnaeus, 1758"
+Blå kärrhök,Exact,100034,Circus cyaneus,0,blå kärrhök,"Falco cyaneus Linnaeus, 1766"
+Ängshök,Exact,100035,Circus pygargus,5,ängshök,"Falco Pygargus Linnaeus, 1758"
+Kornknarr,Exact,100044,Crex crex,400,kornknarr,"Rallus Crex Linnaeus, 1758"
+Sångsvan,Exact,100045,Cygnus cygnus,120,sångsvan,"Anas Cygnus Linnaeus, 1758"
+Knölsvan,Exact,102927,Cygnus olor,2100,knölsvan,"Anas olor J.F.Gmelin, 1789"
+Sävsparv,Exact,103057,Emberiza schoeniclus,15000,sävsparv,"Fringilla Schoeniclus Linnaeus, 1758"
+Sothöna,Exact,102949,Fulica atra,6800,sothöna,
+Enkelbeckasin,Exact,102954,Gallinago gallinago,2600,enkelbeckasin,"Scolopax Gallinago Linnaeus, 1758"
+Rörhöna,Exact,102948,Gallinula chloropus,140,rörhöna,"Fulica Chloropus Linnaeus, 1758"
+Trana,Exact,100065,Grus grus,1200,trana,"Ardea Grus Linnaeus, 1758"
+Strandskata,Exact,102950,Haematopus ostralegus,1400,strandskata,
+Havsörn,Exact,100067,Haliaeetus albicilla,120,"havsörn, Haliaeëtus albicilla","Falco Albicilla Linnaeus, 1758"
+Dvärgmås,Exact,100072,Hydrocoloeus minutus,65,dvärgmås,"Larus minutus Pallas, 1776; Larus minutus Pallas, 1776"
+Gråtrut,Exact,102966,Larus argentatus,4500,"gråtrut, Herring Gull",
+Fiskmås,Exact,102964,Larus canus,15000,"fiskmås, Common Gull",
+Silltrut,Exact,205660,Larus fuscus,1700,silltrut,
+Havstrut,Exact,102967,Larus marinus,1400,havstrut,
+Rödspov,Exact,100076,Limosa limosa,0,rödspov,"Scolopax Limosa Linnaeus, 1758"
+Flodsångare,Exact,102122,Locustella fluviatilis,5,flodsångare,"Sylvia fluviatilis Wolf, 1810"
+Vassångare,Exact,103076,Locustella luscinioides,27,vassångare,"Sylvia luscinioides Savi, 1824"
+Gräshoppsångare,Exact,103003,Locustella naevia,1000,gräshoppsångare,"Motacilla naevia Boddaert, 1783"
+Näktergal,Exact,102992,Luscinia luscinia,4000,näktergal,"Motacilla Luscinia Linnaeus, 1758"
+Storskrake,Exact,102940,Mergus merganser,5600,"storskrake, Goosander",
+Gulärla,Exact,205761,Motacilla flava,1600,gulärla,
+Storspov,Exact,100091,Numenius arquata,220,storspov,"Scolopax Arquata Linnaeus, 1758"
+Fiskgjuse,Exact,100096,Pandion haliaetus,340,fiskgjuse,"Falco Haliaetus Linnaeus, 1758"
+Skäggmes,Exact,100097,Panurus biarmicus,250,skäggmes,"[Parus] biarmicus Linnaeus, 1758"
+Storskarv,Exact,100102,Phalacrocorax carbo,4505,storskarv,"Pelecanus Carbo Linnaeus, 1758"
+Svarthakedopping,Exact,100113,Podiceps auritus,85,svarthakedopping,"Colymbus auritus Linnaeus, 1758"
+Skäggdopping,Exact,102925,Podiceps cristatus,3900,skäggdopping,"Colymbus cristatus Linnaeus, 1758"
+Gråhakedopping,Exact,100114,Podiceps grisegena,20,gråhakedopping,"Colymbus grisegena Boddaert, 1783"
+Svarthalsad dopping,Exact,100115,Podiceps nigricollis,0,svarthalsad dopping,
+Småfläckig sumphöna,Exact,100116,Porzana porzana,35,småfläckig sumphöna,"Rallus Porzana Linnaeus, 1766"
+Vattenrall,Exact,102947,Rallus aquaticus,800,vattenrall,
+Skärfläcka,Exact,100122,Recurvirostra avosetta,0,skärfläcka,
+Pungmes,Exact,100123,Remiz pendulinus,1,pungmes,"Motacilla Pendulinus Linnaeus, 1758"
+Buskskvätta,Exact,102995,Saxicola rubetra,13000,buskskvätta,"Motacilla Rubetra Linnaeus, 1758"
+Fisktärna,Exact,102618,Sterna hirundo,2400,fisktärna,
+Småtärna,Exact,100133,Sternula albifrons,0,småtärna,"Sterna albifrons; Sterna albifrons Pallas, 1764"
+Törnsångare,Exact,103009,Sylvia communis,22000,törnsångare,
+Smådopping,Exact,102104,Tachybaptus ruficollis,20,smådopping,"Colymbus ruficollis Pallas, 1764; Podiceps ruficollis"
+Gravand,Exact,102930,Tadorna tadorna,65,gravand,"Anas Tadorna Linnaeus, 1758"
+Dammsnäppa,Exact,103066,Tringa stagnatilis,NA,dammsnäppa,"Totanus stagnatilis Bechstein, 1803"
+Rödbena,Exact,102958,Tringa totanus,520,rödbena,"Scolopax Totanus Linnaeus, 1758"
+Tofsvipa,Exact,102952,Vanellus vanellus,2600,tofsvipa,"Tringa Vanellus Linnaeus, 1758"
