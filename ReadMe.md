@@ -13,7 +13,7 @@ Be warned, model fitting takes about 2 hours per species (CPU i7 @3.5Ghz). Oh, y
 ## Content
 + Original Observation data: Uppland90180.csv
 + To collate the data: Jags Compile data Optimized 20160125.R (returns OccDataUppland.RData)  
-+ The JAGS model: Write Jags Occupancy Model Saturation 20150815.R  
++ The JAGS model: Write Jags Occupancy Model Saturation 20150815.R (run this to create a local .txt file where JAGS will find the model to compile)  
 + To fit the models: Jags Occupancy Model Parallel Saturation 20150815.R  
 + Plus other files to plot the results
 
