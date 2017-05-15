@@ -2,7 +2,7 @@ Exploiting Opportunistic Observations with Seasonal Site Use Models (Daily Occup
 =======================================================================================================================
 Supplementary data and scripts
 
-This repository accompanies the text: Ruete et al. 2017. Exploiting Opportunistic Observations to Estimate Changes in Seasonal Site Use: An Example with Wetland Birds. JX X:XX-XX
+This repository accompanies the text: Ruete et al. 2017. Exploiting Opportunistic Observations to Estimate Changes in Seasonal Site Use: An Example with Wetland Birds. Ecology and Evolution DOI: 10.1002/ece3.3100
 
 Here you can download all data and scripts needed to replicate the analyses done in the article. 
 To run it you will need to install R <http://www.r-project.org/> and JAGS <http://mcmc-jags.sourceforge.net/>.
